@@ -5,3 +5,9 @@
 ->This system eliminates the hassle of manual searching and provides instant access to accurate and up-to-date academic information.
 
 ->It is done using Linked List Data Structures.
+
+#functionalities
+->We can store and update the student's record in a linked list.
+->Display all the student records stored.
+->Display student records of a particular student when given the roll number of the student.
+->Delete the student record with a particular student roll number.
